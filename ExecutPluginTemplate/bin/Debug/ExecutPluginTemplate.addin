@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!-- This is the manifest file with reference of the application class and output dll name for your add-in. Revit needs this in order to run your application-->
+<RevitAddIns> 
+  <AddIn Type="Application">
+    <Name>ApplicationPlugin</Name>
+    <Assembly>ExecutPluginTemplate.dll</Assembly> <!--This dll must be named after your project name-->    
+    <FullClassName>ExecutPluginTemplate.ExternalApplication</FullClassName> <!--This has to be a reference to your ExternalApplication class-->
+    <ClientId>1df9456b-0b74-4d43-8f04-ccc23d386c46</ClientId> 
+    <VendorId>eTLipse</VendorId> <!--Change this to your company name/ID-->
+    <VendorDescription>Joel Diniz and Edson Andrade | www.etlipse.com | info@etlipse.com</VendorDescription> <!--Change this to your company contact-->
+  </AddIn>
+</RevitAddIns>

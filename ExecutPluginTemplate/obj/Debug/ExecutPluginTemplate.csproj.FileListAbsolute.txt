@@ -1,0 +1,14 @@
+C:\Users\pdant\source\repos\ExecutPluginTemplate\ExecutPluginTemplate\bin\Debug\ExecutPluginTemplate.addin
+C:\Users\pdant\source\repos\ExecutPluginTemplate\ExecutPluginTemplate\bin\Debug\ExecutPluginTemplate.dll
+C:\Users\pdant\source\repos\ExecutPluginTemplate\ExecutPluginTemplate\bin\Debug\ExecutPluginTemplate.pdb
+C:\Users\pdant\source\repos\ExecutPluginTemplate\ExecutPluginTemplate\obj\Debug\ExecutPluginTemplate.csproj.AssemblyReference.cache
+C:\Users\pdant\source\repos\ExecutPluginTemplate\ExecutPluginTemplate\obj\Debug\MainWindow.g.cs
+C:\Users\pdant\source\repos\ExecutPluginTemplate\ExecutPluginTemplate\obj\Debug\ExecutPluginTemplate_MarkupCompile.cache
+C:\Users\pdant\source\repos\ExecutPluginTemplate\ExecutPluginTemplate\obj\Debug\ExecutPluginTemplate_MarkupCompile.lref
+C:\Users\pdant\source\repos\ExecutPluginTemplate\ExecutPluginTemplate\obj\Debug\MainWindow.baml
+C:\Users\pdant\source\repos\ExecutPluginTemplate\ExecutPluginTemplate\obj\Debug\ExecutPluginTemplate.g.resources
+C:\Users\pdant\source\repos\ExecutPluginTemplate\ExecutPluginTemplate\obj\Debug\ExecutPluginTemplate.Properties.Resources.resources
+C:\Users\pdant\source\repos\ExecutPluginTemplate\ExecutPluginTemplate\obj\Debug\ExecutPluginTemplate.csproj.GenerateResource.cache
+C:\Users\pdant\source\repos\ExecutPluginTemplate\ExecutPluginTemplate\obj\Debug\ExecutPluginTemplate.csproj.CoreCompileInputs.cache
+C:\Users\pdant\source\repos\ExecutPluginTemplate\ExecutPluginTemplate\obj\Debug\ExecutPluginTemplate.dll
+C:\Users\pdant\source\repos\ExecutPluginTemplate\ExecutPluginTemplate\obj\Debug\ExecutPluginTemplate.pdb
